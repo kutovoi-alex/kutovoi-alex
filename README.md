@@ -1,3 +1,3 @@
 ## System linux Administration 👋
 
-I'm Alexander Kutovoi — a Linux-oriented engineer with hands-on experience in Docker, system administration, automation, and CLI-driven workflows. I focus on efficient tooling, containerization, and building clean, reliable development environments.
+Linux-oriented engineer with hands-on experience in system administration, automation, containerization, and CLI-driven workflows. Focused on building efficient tooling, improving system reliability, and maintaining clean, stable, and scalable infrastructure environments.
